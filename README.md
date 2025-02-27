@@ -32,3 +32,5 @@
 
 <h1>Preview</h1>
 
+![Screen Recording 2025-02-27 at 17 45 16](https://github.com/user-attachments/assets/b0ccd918-7fa6-42a7-8076-d76bf3cd4923)
+
